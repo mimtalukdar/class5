@@ -1,0 +1,12 @@
+*{
+	padding:0;
+	margin:0;
+	
+}
+body{
+	background:gray;
+}
+.manicontent .menubar{
+	display:flex;
+	justify-content:space-between;
+}
